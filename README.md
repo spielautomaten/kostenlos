@@ -17,4 +17,4 @@ Zufall Methode 2:
 Mit Flash ist das so möglich:  var myRandomNumber:Int = Math.floor(Math.random()*(1+High-Low))+Low;
 Wobei High und Low den Rahmen vorgeben, in dem die Zufallszahl sein soll.
 
-weitere Info's folgen
+weitere Info's & kostenlose Spiele folgen
