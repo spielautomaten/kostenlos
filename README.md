@@ -18,3 +18,6 @@ Mit Flash ist das so möglich:  var myRandomNumber:Int = Math.floor(Math.random(
 Wobei High und Low den Rahmen vorgeben, in dem die Zufallszahl sein soll.
 
 weitere Info's & kostenlose Spiele folgen
+kostenlose Automatenspiele zum Testen [DESKTOP] kann man hier https://www.spielautomaten-online.info/kostenlos-spielen/ finden.
+
+Der Zufall in einem Spielautomaten ist einprogrammiert und muss eine gewisse RTP (Return-to-Player) Rate erfüllen.
